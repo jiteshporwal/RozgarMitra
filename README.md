@@ -27,12 +27,17 @@ cd rozgar-mitra
 
 ## Screenshots
 Here are some screenshots of the Rozgar Mitra platform:
-
-- ![Contact with Workers](Screenshots/contactWithworkers.png)
 - ![Dashboard](Screenshots/dashboard.png)
+
 - ![Login](Screenshots/login.png)
+ 
+- ![Contact with Workers](Screenshots/contactWithworkers.png)
+
+
 - ![Services](Screenshots/services.png)
+- 
 - ![Signup](Screenshots/signup.png)
 - ![Team](Screenshots/team.png)
+- 
 - ![Worker Registration](Screenshots/worker-registration.png)
 
